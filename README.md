@@ -40,7 +40,7 @@ Comprehensive football club management system for grassroots teams.
 - **Tech Stack**: React, TypeScript, Tailwind CSS
 - **Key Features**: Tactical planning, Squad management, Performance analytics
 
-### [Zephyr Weather App](https://github.com/Hud-Tariq/ZephyrWeatherApp)
+### [Zephyr Weather App](https://github.com/Hud-Tariq/Zephyr)
 Modern weather application with real-time updates and detailed forecasts.
 - **Tech Stack**: Qt, C++
 - **Key Features**: Real-time weather data, Interactive maps, Custom alerts
