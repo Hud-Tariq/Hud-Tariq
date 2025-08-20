@@ -1,83 +1,75 @@
-# 👋 Hi, I'm Hud-Tariq!
-
----
+# Hi there, I'm Hud-Tariq 👋
 
 <div align="center">
-  <h1 style="font-family: 'Fira Mono', monospace; font-size: 2.5em; color: #d4e3fa;">Hud-Tariq</h1>
-  <div>
-    <a href="mailto:"><img src="https://img.shields.io/badge/Email-M-red?style=for-the-badge&logo=gmail"></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  </div>
-  <br>
-  <div style="display: flex; justify-content: center; gap: 4em;">
-    <div>
-      <h2 style="font-size: 2em; color: #e3e3e3;">283</h2>
-      <p style="color: #3bb6e3;">Total Contributions</p>
-      <p style="color: #6c7a89;">Dec 21, 2024 - Present</p>
-    </div>
-    <div>
-      <h2 style="font-size: 2em; color: #e3e3e3;">1</h2>
-      <p style="color: #3bb6e3;">Current Streak</p>
-      <p style="color: #6c7a89;">Aug 19</p>
-    </div>
-    <div>
-      <h2 style="font-size: 2em; color: #e3e3e3;">4</h2>
-      <p style="color: #3bb6e3;">Longest Streak</p>
-      <p style="color: #6c7a89;">Apr 8 - Apr 11</p>
-    </div>
-  </div>
+  <a href="https://github.com/Hud-Tariq">
+    <img src="https://img.shields.io/github/followers/Hud-Tariq?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/Hud-Tariq?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=flat-square&logo=github" alt="GitHub repositories">
+  </a>
 </div>
 
----
+## 🚀 About Me
+
+Software developer passionate about creating impactful solutions. I specialize in React, TypeScript, and C++, focusing on building robust and user-friendly applications.
+
+## 🛠️ Technologies & Tools
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hud-Tariq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hud-Tariq&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ## 🏆 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [DripMuse](https://github.com/Hud-Tariq/DripMuse) | An AI stylist that helps users discover fashion inspiration and outfit ideas. | React, TypeScript, Node.js, AI |
-| [Hud FC Manager](https://github.com/Hud-Tariq/hud-fc-tactical-tracker) | Football grassroots manager app for club tactics, squad management, and analytics. | React, TypeScript, Tailwind CSS |
-| [Zephyr Weather App](https://github.com/Hud-Tariq/ZephyrWeatherApp) | Sleek, real-time weather app built in QT and C++. | QT, C++ |
+### [DripMuse](https://github.com/Hud-Tariq/DripMuse)
+AI-powered fashion stylist application that provides personalized outfit recommendations and style inspiration.
+- **Tech Stack**: React, TypeScript, Node.js, AI
+- **Key Features**: Personalized recommendations, Style matching, Virtual wardrobe
 
----
+### [Hud FC Manager](https://github.com/Hud-Tariq/hud-fc-tactical-tracker)
+Comprehensive football club management system for grassroots teams.
+- **Tech Stack**: React, TypeScript, Tailwind CSS
+- **Key Features**: Tactical planning, Squad management, Performance analytics
 
-## 🎨 Most Used Languages
+### [Zephyr Weather App](https://github.com/Hud-Tariq/ZephyrWeatherApp)
+Modern weather application with real-time updates and detailed forecasts.
+- **Tech Stack**: Qt, C++
+- **Key Features**: Real-time weather data, Interactive maps, Custom alerts
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hud-Tariq&layout=compact&theme=radical)
+## 📊 Weekly Development Breakdown
 
----
+```text
+TypeScript   12 hrs 42 mins  ███████████░░░░░░  45.2%
+React        8 hrs 15 mins   ██████░░░░░░░░░░░  29.4%
+C++          4 hrs 30 mins   ███░░░░░░░░░░░░░░  16.1%
+CSS          2 hrs 18 mins   ██░░░░░░░░░░░░░░░   8.2%
+Other        18 mins         ░░░░░░░░░░░░░░░░░   1.1%
+```
+
+## 🤝 Let's Connect
+
+If you're interested in collaboration or just want to say hi, feel free to reach out!
 
 <div align="center">
-  <h2 style="font-family: 'Fira Mono', monospace;">$ Coding Metrics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hud-Tariq&show_icons=true&hide_title=true&count_private=true&theme=radical">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3 style="font-family: 'Fira Mono', monospace;">Contribution Graph</h3>
-  <img src="https://github.com/Hud-Tariq/Hud-Tariq/blob/output/github-contribution-grid-snake.svg">
+  <i>⭐️ From <a href="https://github.com/Hud-Tariq">Hud-Tariq</a></i>
 </div>
-
----
-
-
-
-## 🌱 My Coding Story
-
-I started off by solving my own problems, and now I’m interested in tackling bigger challenges and learning more every day. Collaboration and curiosity drive me forward!
-
----
-
-## 🌐 Let's Connect
-
-- LinkedIn: [Placeholder for LinkedIn link]
-- Twitter: [Placeholder for Twitter link]
-- Portfolio: [Placeholder for personal website]
-
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
-
----
-
-Thank you for visiting! Browse my repositories, star your favorites, or reach out for collaboration.
