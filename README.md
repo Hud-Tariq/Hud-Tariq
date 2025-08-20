@@ -60,11 +60,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-![GitHub Snake](https://github.com/Hud-Tariq/Hud-Tariq/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌱 My Coding Story
 
